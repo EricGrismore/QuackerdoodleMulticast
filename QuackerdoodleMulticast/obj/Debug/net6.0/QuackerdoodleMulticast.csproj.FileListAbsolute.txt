@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\bin\Debug\net6.0\QuackerdoodleMulticast.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\bin\Debug\net6.0\QuackerdoodleMulticast.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\bin\Debug\net6.0\QuackerdoodleMulticast.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\bin\Debug\net6.0\QuackerdoodleMulticast.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\bin\Debug\net6.0\QuackerdoodleMulticast.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\refint\QuackerdoodleMulticast.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\QuackerdoodleMulticast.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\QuackerdoodleMulticast\QuackerdoodleMulticast\obj\Debug\net6.0\ref\QuackerdoodleMulticast.dll
